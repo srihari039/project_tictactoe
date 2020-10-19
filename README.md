@@ -6,3 +6,4 @@ In the play with computer mode, you will be asked to enter the level of hardness
 
 Game rules:
 You need to get a character in between 'x' and 'o' and try to make a series of character you chose of length 3(sholud be in a straight line) and then you win.
+(checked thoroughly on valgrind!)
